@@ -1,3 +1,67 @@
+# 💰 Simulador de Finanças
+
+Aplicativo de controle financeiro desenvolvido com foco em organização de gastos, visualização de dados e metas pessoais.
+
+---
+
+## 🚀 Funcionalidades
+
+- 📊 Dashboard com resumo de gastos
+- 💰 Cálculo automático do total gasto
+- 📈 Gráficos por categoria
+- 📅 Histórico com datas
+- 🎯 Definição de metas financeiras
+- 💾 Salvamento automático no navegador (localStorage)
+- 🧭 Navegação entre páginas
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Chart.js
+
+---
+
+## 📸 Screenshots
+
+### 📊 Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### 📈 Gráficos
+![Gráficos](./screenshots/dashboard2.png)
+
+### 🎯 Metas/investismentos
+![Metas](./screenshots/investimentos.png)
+
+### ℹ️ Sobre
+![Sobre](./screenshots/sobre.png)
+
+---
+
+## 💡 Sobre o projeto
+
+Este projeto foi desenvolvido com o objetivo de praticar conceitos de desenvolvimento frontend, incluindo:
+
+- Gerenciamento de estado
+- Componentização
+- Manipulação de dados
+- Experiência do usuário (UX)
+
+---
+
+## 📌 Status
+
+✅ Projeto finalizado para portfólio
+
+---
+
+## 👩‍💻 Autora
+
+Desenvolvido por Amanda Bicalho
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
